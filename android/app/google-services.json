@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753274840167",
+    "firebase_url": "https://chat-app-pro-b4225.firebaseio.com",
+    "project_id": "chat-app-pro-b4225",
+    "storage_bucket": "chat-app-pro-b4225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753274840167:android:638fd60ef3b0396f7da0c2",
+        "android_client_info": {
+          "package_name": "com.parves.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753274840167-2mjkcoh9r3nvtnq602uno7oifqq65hj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoUHI5vGbD9_TAYlu5Y5ejsvFFJ2HVaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753274840167-2mjkcoh9r3nvtnq602uno7oifqq65hj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753274840167-4afvkgngmn7c68tuvd3sokmgen2kh8il.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parves.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
